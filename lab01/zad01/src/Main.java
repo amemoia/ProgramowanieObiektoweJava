@@ -21,6 +21,7 @@ public class Main {
         // Zadanie 2
         System.out.println(p.toSvg());
         // Zadanie 3
+        p.translate(4, 3);
         Point p2 = p.translated(4, 3);
         System.out.println(p2);
         // Zadanie 4
