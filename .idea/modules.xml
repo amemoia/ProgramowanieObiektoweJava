@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Genealogy/Genealogy.iml" filepath="$PROJECT_DIR$/Genealogy/Genealogy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProgramowanieObiektoweJava.iml" filepath="$PROJECT_DIR$/.idea/ProgramowanieObiektoweJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt/Projekt.iml" filepath="$PROJECT_DIR$/Projekt/Projekt.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab01/lab01.iml" filepath="$PROJECT_DIR$/lab01/lab01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab01/svg/svg.iml" filepath="$PROJECT_DIR$/lab01/svg/svg.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab01/zad01/zad01.iml" filepath="$PROJECT_DIR$/lab01/zad01/zad01.iml" />

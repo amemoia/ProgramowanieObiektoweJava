@@ -1,0 +1,12 @@
+@startuml
+object p1 {
+    Szymon Kowalski
+}
+
+object p2 {
+    Jan Kowalski
+}
+
+p2 --> p1 : parent
+
+@enduml

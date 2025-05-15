@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+buh -> juh: Authentication Request
+juh --> buh: Authentication Response
+
+muh -> guh: Another authentication Request
+guh <-- muh: another authentication Response
+@enduml
